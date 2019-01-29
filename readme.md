@@ -25,6 +25,8 @@ Example:
     current: git-explore/inside/.git
     desired: git-explore/.git
 
+Solution:
+
 ```
 mv .git ../
 cd ../
@@ -39,15 +41,15 @@ Example:
     current: git-explore/.git
     desired: git-explore/inside/.git
 
+Solution:
+
 ```
 mv .git inside/
 cd inside/
 git add .
 git commit -a
 ```
- with an example of getting some data out of the system or using it for a little demo
-
- [Credits](https://stackoverflow.com/questions/1918111/my-git-repository-is-in-the-wrong-root-directory-can-i-move-it-instead-of/3247756)
+[Credits](https://stackoverflow.com/questions/1918111/my-git-repository-is-in-the-wrong-root-directory-can-i-move-it-instead-of/3247756)
 
 ## Contributing
 
