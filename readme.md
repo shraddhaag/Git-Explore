@@ -51,6 +51,16 @@ git commit -a
 ```
 [Credits](https://stackoverflow.com/questions/1918111/my-git-repository-is-in-the-wrong-root-directory-can-i-move-it-instead-of/3247756)
 
+### Writing Commit messages with both title and bodies from the CL
+
+After the [inspiration](https://chris.beams.io/posts/git-commit/#seven-rules) hit me, I was trying to find a way to write commit messages with bodies but I didn't want to do it separately in a proper text editor (who has the time and patience for that) and wanted to do the same from the CL itself.
+
+Here is how you can do it!
+
+```
+git commit -m "Title" -m "Description"
+```
+
 ## Contributing
 
 PRs are welcome! :)
