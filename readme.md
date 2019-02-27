@@ -60,6 +60,7 @@ Here is how you can do it!
 ```
 git commit -m "Title" -m "Description"
 ```
+[Credits](https://stackoverflow.com/a/22909204)
 
 ## Contributing
 
