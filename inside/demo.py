@@ -1,1 +1,1 @@
-git commit --amend
+print("hello world!!")
