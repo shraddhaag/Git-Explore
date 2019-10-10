@@ -1,6 +1,6 @@
 # Git Explore!
 
-A repository to play around with git and Gitub, learning along the way!
+A repository to play around with git and Github, learning along the way!
 
 ### Prerequisites
 
@@ -16,7 +16,7 @@ Here is a list of problems that I faced and found a workaround for!
 
 ### Git repository initialised in the wrong directory
 
-If you have mistakenly initialised your git repository in the wrong parent or root directory of the desired directroy, you can fix it without losing any logs and git status would return only renamed files.
+If you have mistakenly initialised your git repository in the wrong parent or root directory of the desired directoty, you can fix it without losing any logs and git status would return only renamed files.
 
 #### .git in wrong root directory:
 
